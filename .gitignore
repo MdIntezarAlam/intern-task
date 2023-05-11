@@ -1,3 +1,10 @@
+# start command
+install expo app in phone 
+    run this command in terminal => npm install
+      run this in terminal start command=> npx expo start
+                   scan phone expo app to command scanner
+
+
 node_modules/
 .expo/
 dist/
